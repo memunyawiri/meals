@@ -1,1 +1,2 @@
-coffee
+alice had coffee
+bob had a boiled egg
